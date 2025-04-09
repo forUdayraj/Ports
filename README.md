@@ -92,5 +92,3 @@ port=3307
 | MySQL          | 3306         | `my.cnf` / `my.ini`       |
 
 ---
-
-Happy Coding! 🚀
